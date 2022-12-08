@@ -20,12 +20,13 @@ Economics | Finance | Research | Data Science
 
 ## About me 🌼
 
-Hi there! 👋 My name is Marcela Quintero and I'm a bachelor student at Pontifical Catholic University of Peru, majoring in Economics. I am completely passionate about financial and risk analisis, business inteligence, project evaluation and data analysis.
+Hi there! 👋 My name is Marcela Quintero and I'm a bachelor student at Pontifical Catholic University of Peru, majoring in Economics. I am completely passionate about financial and risk analysis, business inteligence, project evaluation and data analysis. I enjoy opportunities were I can put into action my leadership and teamwork skills as well as coming up with creative solutions for any type of problems. 
 
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
+## My experience with software and data
+- Data Analysis 
+- Linear Models
+- Web Scrapping
+- Geospatial database handling
 
 ## Languages 💻
 - RStudio
