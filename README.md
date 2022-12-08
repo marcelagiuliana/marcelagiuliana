@@ -37,11 +37,8 @@ Hi there! 👋 My name is Marcela Quintero and I'm a bachelor student at Pontifi
 - EViews
 
 
-
 <a href="https://github.com/marcelagiuliana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelagiuliana&theme=radical&hide=glsl,python" />
-</a>
-
+  
 <img src="https://github-readme-stats.vercel.app/api?username=marcelagiuliana&&show_icons=true&theme=radical&line_height=27&v=5" alt="Marcela's GitHub Stats" />
 
  
@@ -50,10 +47,7 @@ Hi there! 👋 My name is Marcela Quintero and I'm a bachelor student at Pontifi
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-marcelagiuliana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/marcela-giuliana-quintero-balletta-01a581251/) [![Gmail Badge](https://img.shields.io/badge/-a20191445@pucp.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a20191445@pucp.edu.pe)](mailto:a20191445@pucp.edu.pe) 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
-</p>
+
 
 
 
