@@ -1,4 +1,3 @@
-### Hi there 👋
 
  # <a href="https://www.linkedin.com/in/marcela-giuliana-quintero-balletta-01a581251/">Marcela Quintero Balletta</a> :smiley:
  
@@ -21,7 +20,7 @@ Economics | Finance | Research | Data Science
 
 ## About me 🌼
 
-My name is Marcela Quintero and I'm a bachelor student at Pontifiof Computer Science at Pontifical Catholic University of Peru, majoring in Economics. I am completely passionate about financial and risk analisis, business inteligence, project evaluation and data analysis.
+Hi there! 👋 My name is Marcela Quintero and I'm a bachelor student at Pontifical Catholic University of Peru, majoring in Economics. I am completely passionate about financial and risk analisis, business inteligence, project evaluation and data analysis.
 
 ## Communities :dancers:
 - Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
